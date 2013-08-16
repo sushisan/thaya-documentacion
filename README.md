@@ -1,4 +1,4 @@
-Thaya
+Thaya-documentacion
 ======
 
-Meta distribución basada en Debian Linux
+Docuemntacion de Thaya, una Meta distribución basada en Debian Linux 
