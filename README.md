@@ -1,4 +1,4 @@
-thayra
+Thaya
 ======
 
 Meta distribución de Debian Linux
